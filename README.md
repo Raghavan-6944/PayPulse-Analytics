@@ -242,4 +242,4 @@ jupyter notebook analysis.ipynb
 
 ## 👤 Author
 
-Developed as part of the **GUVI Last Batch Implementation Project**.
+Raghavan V - raghaone2597@gmail.com
